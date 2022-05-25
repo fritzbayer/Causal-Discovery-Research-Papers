@@ -10,6 +10,7 @@ A curated list of causal structure learning research papers with implementations
 5. [Bayesian methods](https://github.com/fritzbayer/Causal-Discovery-Research-Papers/blob/master/chapters/bayesian-methods.md)
 6. [Continuous optimization methods](https://github.com/fritzbayer/Causal-Discovery-Research-Papers/blob/master/chapters/continuous-optimization-methods.md)  
 7. [Graph neural network (GNN) methods](https://github.com/fritzbayer/Causal-Discovery-Research-Papers/blob/master/chapters/GNN-methods.md)
+7. [Exploiting invariance properties (e.g BACKSHIFT)](https://github.com/fritzbayer/Causal-Discovery-Research-Papers/blob/master/chapters/backshift.md)
 
 --------------
 
