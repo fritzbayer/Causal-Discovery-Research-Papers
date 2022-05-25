@@ -10,12 +10,12 @@
   - [[Paper]](https://arxiv.org/abs/1906.02226.pdf)
   - [[Python Reference]](https://github.com/kurowasan/GraN-DAG)
 
-  - **Scaling structural learning with NO-BEARS to infer causal transcriptome networks (Arxiv 2019)**
+- **Scaling structural learning with NO-BEARS to infer causal transcriptome networks (Arxiv 2019)**
   - Hao-Chih Lee, Matteo Danieletto, Riccardo Miotto, Sarah T. Cherng, and Joel T. Dudley
   - [[Paper]](https://arxiv.org/abs/1911.00081.pdf)
   - [[Python Reference]](https://github.com/howchihlee/BNGPU)
 
-  - **On the Role of Sparsity and DAG Constraints for Learning Linear DAGs (Arxiv 2020)**
+- **On the Role of Sparsity and DAG Constraints for Learning Linear DAGs (Arxiv 2020)**
   - Ignavier Ng, AmirEmad Ghassami, Kun Zhang
   - [[Paper]](https://arxiv.org/abs/2006.10201.pdf)
   - [[Python Reference]](https://github.com/ignavier/golem)
